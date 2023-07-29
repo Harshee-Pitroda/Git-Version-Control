@@ -18,7 +18,7 @@ Welcome to the "GitHub Essentials: Mastering Version Control". This is a concise
 
 | **Section** | **What does it cover?** | **Exercises & Extra-curriculum** | **Slides** |
 | ----- | ----- | ----- | ----- |
-| 00 - Git and Github Fundamentals | Many fundamentals about Git and Github and getting all started up | [Go to exercises & extra-curriculum](https://www.learnpytorch.io/00_pytorch_fundamentals/#exercises) | [Go to slides](https://github.com/mrdbourke/pytorch-deep-learning/blob/main/slides/00_pytorch_and_deep_learning_fundamentals.pdf) |
+| 00 - Git and Github Fundamentals | Many fundamentals about Git and Github and getting all started up | To be added | To be added |
 
 ## About this course
 
