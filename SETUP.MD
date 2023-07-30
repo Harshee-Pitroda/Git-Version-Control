@@ -13,7 +13,7 @@ This page provides a comprehensive setup guide for the GitHub Essentials course,
 Welcome aboard! You've taken the first step towards mastering Git and version control. Let's learn, collaborate, and grow together!
 
 
-## Step 2: Install GitHub Desktop
+## Step 3: Install GitHub Desktop
 
 GitHub Desktop is a user-friendly graphical interface that simplifies working with Git and GitHub repositories. No need to worry if you're unsure about the details now; we'll cover everything in the course! 😊
 
