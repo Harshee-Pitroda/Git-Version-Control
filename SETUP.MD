@@ -22,5 +22,12 @@ GitHub Desktop is a user-friendly graphical interface that simplifies working wi
 - If you have Ubuntu then watch this whole video https://www.youtube.com/watch?v=Foqs70mT2yc&ab_channel=DarrylTeaches
 The tutorial will guide you through the installation, ensuring you have GitHub Desktop up and running smoothly on your computer. Get ready to explore version control in a more intuitive way! Happy learning! 🚀
 
+## Step 2: Install Git
+
+Git is a distributed version control system that is commonly used in software development to track changes to source code and collaborate with other developers. No need to worry if you're unsure about the details now; we'll cover everything in the course! 😊
+
+- Windows: Watch this video https://www.youtube.com/watch?v=cJTXh7g-uCM&ab_channel=AmitThinks
+- Ubuntu: Watch this video till first 45 seconds only https://www.youtube.com/watch?v=_kAV059yZ_s&ab_channel=CodeWithArjun
+The tutorial will guide you through the installation, ensuring you have Git up and running smoothly on your computer. Get ready to explore version control in a more intuitive way! Happy learning! 🚀
 
 PS: There are more installations but this will be sufficient for the first introductory session on 30.07.2023, this file will be updated as and when we require new installations! :)
