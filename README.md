@@ -18,7 +18,7 @@ Welcome to the "GitHub Essentials: Mastering Version Control". This is a concise
 
 | **Section** | **What does it cover?** | **Exercises & Extra-curriculum** | **Slides** |
 | ----- | ----- | ----- | ----- |
-| 00 - Git and Github Fundamentals | Many fundamentals about Git and Github and getting all started up | To be added | To be added |
+| 00 - Git and Github Fundamentals | Many fundamentals about Git and Github and getting all started up | To be added | notes (https://github.com/Harshee-Pitroda/Git-Version-Control/blob/main/Materials/1%20-%20Roadmap.jpg) |
 
 ## About this course
 
