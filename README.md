@@ -1,4 +1,4 @@
-# Learn Git and GitHub for Deep Learning
+# Learn Git and GitHub
 
 Welcome to the "GitHub Essentials: Mastering Version Control". This is a concise and informative course conducted at SURE Trust and designed to introduce individuals to the concepts and usage of Git and GitHub as version control tools. Version control is a crucial aspect of modern software development, enabling collaboration, tracking changes, and managing codebase history efficiently.
 
@@ -19,6 +19,8 @@ Welcome to the "GitHub Essentials: Mastering Version Control". This is a concise
 | **Section** | **What does it cover?** | **Exercises & Extra-curriculum** | **Slides** |
 | ----- | ----- | ----- | ----- |
 | 00 - Git and Github Fundamentals | Many fundamentals about Git and Github and getting all started up | [complete installation](https://github.com/Harshee-Pitroda/Git-Version-Control/blob/main/SETUP.MD) | [road map](https://github.com/Harshee-Pitroda/Git-Version-Control/blob/main/Materials/1%20-%20Roadmap.jpg) |
+| 01 - Basic Linux Commands | Basic Linux commands for basic setup | shared in class | - |
+| 02 - Git and its internals | Understanding how to use git | shared in class | - |
 
 ## About this course
 
