@@ -1,4 +1,4 @@
-# Learn Git and GitHub for Deep Learning
+# Learn Git and GitHub
 
 Welcome to the "GitHub Essentials: Mastering Version Control". This is a concise and informative course conducted at SURE Trust and designed to introduce individuals to the concepts and usage of Git and GitHub as version control tools. Version control is a crucial aspect of modern software development, enabling collaboration, tracking changes, and managing codebase history efficiently.
 
